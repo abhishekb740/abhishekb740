@@ -1,6 +1,9 @@
 #  👋 Hi there! I'm Abhishek Bhagat
-I'm a passionate Blockchain Developer and Researcher. I'm also a skilled Web Developer, combining the power of blockchain technology with web applications to create innovative and secure solutions. <br><br> One of my core interests lies in the fascinating world of public key cryptography, particularly focusing on Elliptic Curve Cryptography (ECC). <br><br> My research interests extend to the tokenization of assets, from real estate to digital collectibles as well as in Decentralized Finance (DeFi). I'm dedicated to exploring the ways blockchain can democratize access to assets and transform traditional financial systems.<br><br>📫 Let's connect! Whether you're interested in collaborating on blockchain projects, have questions about tokenization or cryptography, or just want to chat about technology, feel free to reach out. You can find me here on GitHub, and I'm also active on [LinkedIn](https://www.linkedin.com/in/abhishek-bhagat740/).<br><br>🌟 Let's build a decentralized future together!<br>
 
+Hii!
+I'm Abhishek, a web3 builder specializing in building across EVM chains. My expertise spans from building smart contracts to designing decentralized applications, with a focus on NFTs, gaming, bots, etc. Beyond building, I’ve been actively involved in blockchain research. My paper on tokenizing Real Estate Investment Trusts (T-REITs) with regulatory compliance was accepted at IEEE ICBC 2025.
+
+Over the past few years, I’ve explored the depths of full-stack development and blockchain engineering. I enjoy working across the different stack, and I'm most excited when I'm building something real, fast, and scalable.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flamekaiser.eth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-bhagat740) 
