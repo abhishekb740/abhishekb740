@@ -6,7 +6,7 @@ I'm Abhishek, a web3 builder specializing in building across EVM chains. My expe
 Over the past few years, I’ve explored the depths of full-stack development and blockchain engineering. I enjoy working across the different stack, and I'm most excited when I'm building something real, fast, and scalable.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flamekaiser.eth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-bhagat740) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-bhagat740) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhishekb740&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
